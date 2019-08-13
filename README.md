@@ -2,4 +2,5 @@
 Отладка в 1С через внешнюю обработку (шаблон) без перезапуска режима предприятия
 
 
-![2019-08-13-16-21-07-min](https://user-images.githubusercontent.com/2604430/62931949-789b8b00-bde9-11e9-8af4-e841a5bdf030.gif)
+![ezgif-1-73761ed5db9f](https://user-images.githubusercontent.com/2604430/62932751-f744f800-bdea-11e9-8604-0363c2bba95c.gif)
+
